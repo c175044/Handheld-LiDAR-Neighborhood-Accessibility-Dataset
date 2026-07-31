@@ -23,7 +23,7 @@ We also provide the **coarse registration transformation matrices** (in Word doc
 Due to GitHub file size limitations, the dataset is available via Google Drive:
 
 **[Download Link]**  
-（请在这里替换成你的 Google Drive 文件夹或压缩包链接）
+（Google Drive 文件夹或压缩包链接）
 
 The download package includes:
 - 7 point cloud files (`.laz`)
