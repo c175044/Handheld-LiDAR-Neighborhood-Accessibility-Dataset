@@ -2,21 +2,17 @@
 Handheld LiDAR point cloud dataset for neighborhood-scale barrier-free accessibility analysis
 ## Project Introduction
 
-This repository releases part of the handheld LiDAR point cloud data used in our study on neighborhood-scale barrier-free accessibility assessment. 
+This repository releases part of the handheld LiDAR point cloud data used in our study on neighborhood-scale barrier-free accessibility assessment.
 
-To support further research, we currently provide the point cloud data of the **flat-terrain residential neighborhood**.
+To support further research, we publicly provide part of the point cloud data.
 
-## Currently Released Data
+## Data Description
 
-- **Site**: Flat-terrain residential neighborhood
-- **Number of stations**: 7
-- **Format**: LAS/LAZ
-- **Attributes**: XYZ + Intensity
-- **Approximate point spacing**: 0.01 m
+- Format: LAS/LAZ
+- Attributes: XYZ + Intensity
+- Approximate point spacing: 0.01 m
 
-We also provide the **coarse registration transformation matrices** (in Word document) so that users can transform the individual stations into a common coordinate system.
-
-> **Note**: The precise ICP registration was performed on CSF-filtered ground points. Those precise matrices are not included in the current release.
+Coarse registration transformation matrices are also provided, so that users can transform individual stations into a common coordinate system.
 
 ## Data Download
 
