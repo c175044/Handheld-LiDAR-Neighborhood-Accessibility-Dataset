@@ -16,15 +16,17 @@ Coarse registration transformation matrices are also provided, so that users can
 
 ## Data Download
 
-Due to GitHub file size limitations, the dataset is available via Google Drive:
+Due to GitHub file size limits, the data are hosted on Google Drive.
 
-**[Download Link]**  
-（Google Drive 文件夹或压缩包链接）
+**Currently released:**
 
-The download package includes:
-- 7 point cloud files (`.laz`)
-- Coarse registration matrices (`registration_matrix.docx`)
+1. **Flat-terrain neighborhood**  
+   [Download](https://drive.google.com/file/d/1WIdZPA8KTYGrAG3CX20Jh0_4fpy19b4-/view?usp=drive_link)
 
+2. **Hilly neighborhood**  
+   [Download](https://drive.google.com/file/d/1N4VZPOHIq-GNkQtAvZmRj89Ad52jn60-/view?usp=drive_link)
+
+Each package contains the point cloud files (`.laz`) and the corresponding coarse registration matrices.
 ## Data Format
 
 Each point cloud file contains the following attributes:
