@@ -2,9 +2,9 @@
 Handheld LiDAR point cloud dataset for neighborhood-scale barrier-free accessibility analysis
 ## Project Introduction
 
-This repository releases part of the handheld LiDAR point cloud data used in our study on neighborhood-scale barrier-free accessibility assessment.
+This repository releases the handheld LiDAR point cloud data used in our study on neighborhood-scale barrier-free accessibility assessment.
 
-To support further research, we publicly provide part of the point cloud data.
+To support further research, we publicly provide the point cloud data.
 
 ## Data Description
 
